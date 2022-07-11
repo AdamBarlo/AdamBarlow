@@ -1,0 +1,145 @@
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #F68989;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #F68989;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #874356;
+}
+
+a{
+    color: #874356;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+p{
+    line-height: 2;
+}
+
+hr{
+    border: dotted;
+    border-bottom: none;
+    width: 5%;
+    border-width: 11px;
+    color: #C65D7B;
+}
+
+span{
+    text-decoration: underline;
+}
+
+.top-container{
+    background-color: #f6e7d8;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 250px;
+    top: 100px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    top: 375px;
+}
+
+.skills{
+    margin-top: 80px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.HTML5-logo{
+    width: 25%;
+    height: auto;
+    float: left;
+    margin-right: 30px;
+}
+
+.CSS-logo{
+    width: 25%;
+    height: auto;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile{
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+
+.profile-img{
+    border-radius: 100%;
+    width: 15%;
+    margin-bottom: 30px;
+}
+
+.contact-me{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.btn{
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+    background: #874356;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+      
+.btn:hover{
+    background: #C65D7B;
+    text-decoration: none;
+}
+
+.bottom-container{
+    background-color: #F68989;
+    padding-top: 50px;
+    margin-bottom: 0;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: #874356;
+}
+
+.footer-link:hover{
+    text-decoration: underline;
+    color: #C65D7B;
+}
+
+.copyright{
+    margin-bottom: 0px;
+    margin-top: 50px;
+    color: white;
+    font-size: .75rem;
+}
